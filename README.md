@@ -1,5 +1,4 @@
 # Professional-JavaScript-for-Web-Developers
-## Book Summary - Short Description:
 > Professional JavaScript for Web Developers is the essential guide to next-level JavaScript development. Written for intermediate-to-advanced programmers, this book jumps right into the technical details to help you clean up your code and become a more sophisticated JavaScript developer. From JavaScript-specific object-oriented programming and inheritance, to combining JavaScript with HTML and other markup languages, expert instruction walks you through the fundamentals and beyond. 
 > The latest—and most dramatic—ES release is already being incorporated into JavaScript engines in major browsers; this, coupled with the rise in mobile web traffic increasing demand for responsive, dynamic web design, means that all web developers need to update their skills—and this book is your ideal resource for quick, relevant guidance.  
    - Get up to date with ECMAScript 6 and 7, new frameworks, and new libraries; 
